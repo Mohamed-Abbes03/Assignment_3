@@ -1,0 +1,6 @@
+Hugging Face model repository:
+
+  https://huggingface.co/mohhamedd/seqtrack-team10/
+
+from transformers import AutoModel
+model = AutoModel.from_pretrained("mohhamedd/seqtrack-team10")
