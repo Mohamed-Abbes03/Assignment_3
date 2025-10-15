@@ -1,0 +1,5 @@
+Epoch 1 : 48 / 48 samples , time for last 50 samples : 0:6:58 hours , time since beginning : 0:6:58 hours , time left to finish the epoch : 0:0:0 hours , Loss/total: 8.28724 , IoU: 0.04923
+Epoch 2 : 48 / 48 samples , time for last 50 samples : 0:5:24 hours , time since beginning : 0:5:24 hours , time left to finish the epoch : 0:0:0 hours , Loss/total: 8.18016 , IoU: 0.02736
+Epoch 3 : 48 / 48 samples , time for last 50 samples : 0:5:53 hours , time since beginning : 0:5:53 hours , time left to finish the epoch : 0:0:0 hours , Loss/total: 8.04452 , IoU: 0.03467
+Epoch 4 : 48 / 48 samples , time for last 50 samples : 0:5:16 hours , time since beginning : 0:5:16 hours , time left to finish the epoch : 0:0:0 hours , Loss/total: 7.89170 , IoU: 0.09420
+Epoch 5 : 48 / 48 samples , time for last 50 samples : 0:6:1 hours , time since beginning : 0:6:1 hours , time left to finish the epoch : 0:0:0 hours , Loss/total: 7.70782 , IoU: 0.10961
